@@ -10,10 +10,6 @@ This package provides a classifier to predict engagement levels using a pre-trai
 
 ## Installation
 
-To install the package, run:
-
-## Installation
-
 You can install the package directly from the GitHub repository:
 
 ```bash
